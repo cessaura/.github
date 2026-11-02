@@ -12,6 +12,7 @@ French curls, fashion and lifestyle pieces in **Grafton, Freetown, Sierra Leone*
 | 📍 Find us | CRS, Grafton, by Conex Fuel Station (not a walk-in shop, message first) |
 | 🕘 Open | Monday to Saturday, 9 am to 7 pm · Sunday closed |
 | 💬 WhatsApp / Call | [+232 77 794 025](https://wa.me/23277794025) |
+| ✉️ Email | rugiatuswaray20@icloud.com |
 | 💸 Pay | Orange Money 076 909 986 · Afrimoney 077 794 025 · Cash on delivery |
 
 The website is a fast, mobile-first page in English and Krio, built for 3G phones. Source code: [cessaura.github.io](https://github.com/cessaura/cessaura.github.io).
