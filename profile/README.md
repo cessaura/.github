@@ -3,13 +3,13 @@
 <h1 align="center">CESSAURA</h1>
 <p align="center"><i>Your Beauty, Your Aura.</i> · <i>Yu buti, yu aura.</i></p>
 
-French curls, fashion and lifestyle pieces in **Grafton, Freetown, Sierra Leone**.
+Hair salon in **Grafton, Freetown, Sierra Leone**: we plait hair and fit French curls, plus fashion and lifestyle pieces.
 
 | | |
 |---|---|
 | 🌐 Website | https://cessaura.github.io |
 | 💇🏾‍♀️ French curls | 24 and 30 inch, 8 colours, Le 110 per packet |
-| 📍 Find us | CRS, Grafton, near ICODEHS Central Mosque, by Conex Fuel Station · [Google Maps](https://www.google.com/maps/search/?api=1&query=8.40403,-13.166852) (not a walk-in shop, message first) |
+| 📍 Find us | CRS, Grafton, near ICODEHS Central Mosque, by Conex Fuel Station · [Google Maps](https://www.google.com/maps/search/?api=1&query=8.40403,-13.166852) (book your salon time on WhatsApp) |
 | 🕘 Open | Monday to Saturday, 9 am to 7 pm · Sunday closed |
 | 💬 WhatsApp / Call | [+232 77 794 025](https://wa.me/23277794025) |
 | ✉️ Email | rugiatuswaray20@icloud.com |
